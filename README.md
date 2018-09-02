@@ -4,6 +4,8 @@ A 30kB JS stealth shooter challenge.
 
 Made for [Gynvael's Summer GameDev Challenge 2018](https://gynvael.coldwind.pl/?lang=en&id=686)
 
+The project is continued [here](https://github.com/tulustul/shutter-asylum).
+
 ![Game screenshot](/screens/screen_1.jpg)
 
 ## Getting started
